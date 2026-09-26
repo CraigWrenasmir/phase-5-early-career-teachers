@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-27",
+  "scope": "Affirmative opening narration",
+  "workshop": "Early Career Teachers",
+  "voice": "Steve Hogan",
+  "sessions": [
+    {
+      "session": 1,
+      "slide": 1,
+      "segment_id": "s01_sl01_a",
+      "new_sentence": "We value students as they are and support their participation and belonging.",
+      "opening_start_seconds": 5,
+      "opening_end_seconds": 44.845020833333336,
+      "web": {
+        "url": "media/session-1.mp4?v=fc5edb0d51dc",
+        "bytes": 40584528,
+        "sha256": "fc5edb0d51dc14f92313bf1b703861cae0458e3ea773a502171742dbc4e7fe3c"
+      },
+      "download": {
+        "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-01.mp4",
+        "bytes": 134601109,
+        "sha256": "314a4236f1867cfe92ee7d3a0de0ebf127326d0308919da4b99d408aa8aaafcf"
+      },
+      "checks": {
+        "video_packets_and_timestamps_unchanged": true,
+        "audio_packets_and_timestamps_unchanged_outside_openings": true,
+        "duration_unchanged": true,
+        "chapters_unchanged": true,
+        "embedded_caption_text_matches": true,
+        "unwanted_wording_absent": true
+      }
+    }
+  ],
+  "combined_download": {
+    "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--full-workshop.mp4",
+    "bytes": 1219811588,
+    "sha256": "88b473bc5cf69e8e41bf411cb535660c7b2f6d8dc9bded7dae0598ff39f5199f"
+  },
+  "preservation": {
+    "all_video_packets_unchanged": true,
+    "all_audio_packets_unchanged_outside_openings": true,
+    "chapter_and_slide_timing_unchanged": true,
+    "positive_autistic_identity_replacement_preserved": true
+  },
+  "source_documents": "Original downloadable source documents remain unchanged."
+}
