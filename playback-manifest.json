@@ -1,0 +1,109 @@
+{
+  "workshop": "Early Career Teachers",
+  "website": "https://craigwrenasmir.github.io/phase-5-early-career-teachers/",
+  "playback": "Same-site web-optimised MP4s; full-quality recordings remain separate Release downloads.",
+  "sessions": [
+    {
+      "session": 1,
+      "url": "media/session-1.mp4",
+      "bytes": 40559016,
+      "sha256": "b8ebc0589b3d427859539209340858e31e007b36296b83e0295eeda077e6f753",
+      "duration_seconds": 1207.658,
+      "source_sha256": "b53ac2f6676c4bbff7f727b6b375843c094cd6971402906c0dcf374784f74c4f",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-01.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 2,
+      "url": "media/session-2.mp4",
+      "bytes": 97138594,
+      "sha256": "3f4076c672d22f55940f99b97bb93c03c6328713d9b29716e825d23ba4c3f79f",
+      "duration_seconds": 1685.738,
+      "source_sha256": "7d957779e9d569bde44f68318294adabe49c032639ff84d1bbe6ab38dbed865d",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-02.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 3,
+      "url": "media/session-3.mp4",
+      "bytes": 90797330,
+      "sha256": "e3e60014d22ea0a01892b65ca4d7d075211b0c9b548ab27032ffa7a0a9a1a4d8",
+      "duration_seconds": 2471.658,
+      "source_sha256": "c1dc5a53e606d09689c7ab6bc21bbbb35ef2dc5ea530e39e522621c0db39cacf",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-03.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 4,
+      "url": "media/session-4.mp4",
+      "bytes": 44969607,
+      "sha256": "93279c6b1462b2a2d34ecc55a9102aa0e90a60f4e66da22d50e45c2a043a5f29",
+      "duration_seconds": 1730.858,
+      "source_sha256": "f0948a02c6c26efd1fd78f413be37d992f2bc52d10488c1a70d5ad4825ccb636",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-04.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 5,
+      "url": "media/session-5.mp4",
+      "bytes": 54210359,
+      "sha256": "4702c284c23a17a3362c32b0cce44e779e504aa0f9e4640f8511a8b556c84859",
+      "duration_seconds": 1914.453,
+      "source_sha256": "862cd1ee3e714a0cb503f18838cae0568400ebccb626294eda254c288c430bbc",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-05.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 6,
+      "url": "media/session-6.mp4",
+      "bytes": 20976980,
+      "sha256": "e02e8749613717269d2223d20355ce3cae3cb43be756f29689a090c1d4a85ae3",
+      "duration_seconds": 801.13,
+      "source_sha256": "dfbef7906ff4efdb976c9ace2364187b1257be8111e2f1ffa7e6a4313b35f32e",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-06.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    }
+  ]
+}
