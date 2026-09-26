@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-27",
+  "workshop": "Early Career Teachers",
+  "session": 3,
+  "slide": 27,
+  "scope": "Positive Autistic Identity visual replacement",
+  "replacement": {
+    "url": "assets/positive-autistic-identity.png",
+    "bytes": 304549,
+    "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
+  },
+  "source_documents": "Original downloadable source documents remain unchanged.",
+  "frame_rate": 25,
+  "session_interval": {
+    "start_frame": 59537,
+    "end_frame": 61791
+  },
+  "combined_interval": {
+    "start_frame": 131871,
+    "end_frame": 134125
+  },
+  "media": {
+    "session_download": {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-03.mp4",
+      "bytes": 367377268,
+      "sha256": "386085132b861dc17c4010ac51df89bc0798fad97dc82ba06a05dc472eb20bef",
+      "previous": {
+        "bytes": 368039914,
+        "sha256": "c1dc5a53e606d09689c7ab6bc21bbbb35ef2dc5ea530e39e522621c0db39cacf"
+      }
+    },
+    "combined_download": {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--full-workshop.mp4",
+      "bytes": 1219817005,
+      "sha256": "12f1fd521e3ca1df7646dcb1d9158b2117480cf3747826d09031509d0169ea1f",
+      "previous": {
+        "bytes": 1220472119,
+        "sha256": "1df8653672237c01af570432fb9f3a870c1e05ce9ec18e9e45c056e872e7e855"
+      }
+    },
+    "web_playback": {
+      "url": "media/session-3.mp4?v=b9a2f8dc7a61",
+      "bytes": 90754091,
+      "sha256": "b9a2f8dc7a618aeb73a9e4e9a0a4dc01c5e514a14965272e0069762a9feb7e4e",
+      "previous": {
+        "bytes": 90797330,
+        "sha256": "e3e60014d22ea0a01892b65ca4d7d075211b0c9b548ab27032ffa7a0a9a1a4d8"
+      }
+    }
+  },
+  "preservation_checks": {
+    "session_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "combined_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "web_playback": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    }
+  }
+}

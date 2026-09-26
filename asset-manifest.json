@@ -404,8 +404,8 @@
       "filename": "Session 3 - Autistic Experience at School- Communication, Connection and Identity.mp4",
       "category": "Videos",
       "format": "mp4",
-      "bytes": 368039914,
-      "sha256": "c1dc5a53e606d09689c7ab6bc21bbbb35ef2dc5ea530e39e522621c0db39cacf",
+      "bytes": 367377268,
+      "sha256": "386085132b861dc17c4010ac51df89bc0798fad97dc82ba06a05dc472eb20bef",
       "storage": "release",
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-03.mp4"
     },
@@ -594,8 +594,8 @@
       "filename": "Full Workshop.mp4",
       "category": "Videos",
       "format": "mp4",
-      "bytes": 1220472119,
-      "sha256": "1df8653672237c01af570432fb9f3a870c1e05ce9ec18e9e45c056e872e7e855",
+      "bytes": 1219817005,
+      "sha256": "12f1fd521e3ca1df7646dcb1d9158b2117480cf3747826d09031509d0169ea1f",
       "storage": "release",
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--full-workshop.mp4"
     },
@@ -618,6 +618,16 @@
       "sha256": "58b6032964cf4ddb076f3fd8b758036eac47e29a9b19e24a55fd3a7b3a5161bc",
       "storage": "pages",
       "url": "Captions/Full Workshop.srt"
+    },
+    {
+      "label": "Positive Autistic Identity replacement slide",
+      "filename": "positive-autistic-identity.png",
+      "format": "png",
+      "category": "Slide replacements",
+      "url": "assets/positive-autistic-identity.png",
+      "storage": "pages",
+      "bytes": 304549,
+      "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
     }
   ]
 }
