@@ -6,10 +6,10 @@
     {
       "session": 1,
       "url": "media/session-1.mp4",
-      "bytes": 40584528,
-      "sha256": "fc5edb0d51dc14f92313bf1b703861cae0458e3ea773a502171742dbc4e7fe3c",
-      "duration_seconds": 1207.658,
-      "source_sha256": "314a4236f1867cfe92ee7d3a0de0ebf127326d0308919da4b99d408aa8aaafcf",
+      "bytes": 41690545,
+      "sha256": "e8db6e0679cf445b276606c9409ee43ebfe8086edb6e36d31e939ca86a9d9764",
+      "duration_seconds": 1236.458,
+      "source_sha256": "443fb9e0603d95cc5ea62c0bf6d7c1166d76267b5ab1156139887d09b04d64a5",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-01.mp4",
       "codec": "H.264 High",
       "resolution": [
