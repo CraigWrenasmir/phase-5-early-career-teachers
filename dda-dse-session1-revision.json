@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-28",
+  "scope": "DDA/DSE coverage in Session1. Only affected sessions rebuilt from updated read-only masters; unchanged narration reused.",
+  "workshop": "Early Career Teachers",
+  "basis_commit": "36004f0046fb411394bc84955bef1ea407720f02",
+  "source_sessions": [
+    {
+      "session": 1,
+      "pptx": "PL Early Career - Session 1 - The Lens.pptx",
+      "pptx_sha256": "cfac91a4d3bf13299371c06fb57f2f46232999bddb02c34926203bc70c892447",
+      "pptx_bytes": 51147618,
+      "pdf": "PL Early Career - Session 1 - The Lens.pdf",
+      "pdf_sha256": "95ea077ec7178c903f23a945aa0f2352c1ce58fce03920ea7c4f1d0a2bb161be",
+      "pdf_bytes": 5816773,
+      "source_slides": 18
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "duration_seconds": 1345.32,
+      "source_slide_count": 18,
+      "full_sha256": "906c22c669c003b8c5c1bf1c658ec35ca9db1cad587fcefa595be7624f53b0c7",
+      "web_sha256": "b8f3a9e85fbcb1e6ec4a6503d053757d5ca34810dd4d501064d552591b53d200"
+    }
+  ],
+  "combined": {
+    "duration_seconds": 9949.08,
+    "sha256": "d98d778661140a4c820c871fcdec4d7d0586e7005898ab83a7a51f7e9c6fd8ef",
+    "unchanged_session_picture_data_preserved": true
+  },
+  "total_source_slides": 121,
+  "playback": "Same-site web media. Full-quality Release assets are download-only.",
+  "narration": "Steve Hogan; unaffected narration retained. New or changed narration uses verified source-aligned text.",
+  "notes": "Original earlier revision records are preserved as historical evidence."
+}

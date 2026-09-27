@@ -6,10 +6,10 @@
     {
       "session": 1,
       "url": "media/session-1.mp4",
-      "bytes": 41690545,
-      "sha256": "e8db6e0679cf445b276606c9409ee43ebfe8086edb6e36d31e939ca86a9d9764",
-      "duration_seconds": 1236.458,
-      "source_sha256": "443fb9e0603d95cc5ea62c0bf6d7c1166d76267b5ab1156139887d09b04d64a5",
+      "bytes": 44464138,
+      "sha256": "b8f3a9e85fbcb1e6ec4a6503d053757d5ca34810dd4d501064d552591b53d200",
+      "duration_seconds": 1345.322,
+      "source_sha256": "906c22c669c003b8c5c1bf1c658ec35ca9db1cad587fcefa595be7624f53b0c7",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-01.mp4",
       "codec": "H.264 High",
       "resolution": [
@@ -105,5 +105,6 @@
       "audio": "AAC stereo 48 kHz",
       "faststart": true
     }
-  ]
+  ],
+  "current_revision": "dda-dse-session1-revision.json"
 }
