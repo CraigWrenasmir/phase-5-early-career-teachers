@@ -40,10 +40,10 @@
     {
       "session": 3,
       "url": "media/session-3.mp4",
-      "bytes": 90754091,
-      "sha256": "b9a2f8dc7a618aeb73a9e4e9a0a4dc01c5e514a14965272e0069762a9feb7e4e",
+      "bytes": 90743633,
+      "sha256": "87abc8199c75d30218c9e3e8e1cf0512f2628a94b12623d652ce90d64d8e4a18",
       "duration_seconds": 2471.658,
-      "source_sha256": "386085132b861dc17c4010ac51df89bc0798fad97dc82ba06a05dc472eb20bef",
+      "source_sha256": "75536894dc74754b276bb592a4e9fce4c164edd7a1342e48b5d0035e09634b99",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-03.mp4",
       "codec": "H.264 High",
       "resolution": [
@@ -57,10 +57,10 @@
     {
       "session": 4,
       "url": "media/session-4.mp4",
-      "bytes": 44969607,
-      "sha256": "93279c6b1462b2a2d34ecc55a9102aa0e90a60f4e66da22d50e45c2a043a5f29",
+      "bytes": 45663190,
+      "sha256": "a2f1cfdd41fbc3bf40093e696903c4ebce300b787b1b79d9f0aacf6cb236b74f",
       "duration_seconds": 1730.858,
-      "source_sha256": "f0948a02c6c26efd1fd78f413be37d992f2bc52d10488c1a70d5ad4825ccb636",
+      "source_sha256": "93b9ab046caca073fe1fd5c1b4650f3c4b58bfe8ae22eaeb2cda862a52a3aa84",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-04.mp4",
       "codec": "H.264 High",
       "resolution": [
@@ -74,10 +74,10 @@
     {
       "session": 5,
       "url": "media/session-5.mp4",
-      "bytes": 54210359,
-      "sha256": "4702c284c23a17a3362c32b0cce44e779e504aa0f9e4640f8511a8b556c84859",
+      "bytes": 54288718,
+      "sha256": "30e91ead26556deaa580a2155d6b4fb98c591cb7b282d95420e18cd7c8f1cbac",
       "duration_seconds": 1914.453,
-      "source_sha256": "862cd1ee3e714a0cb503f18838cae0568400ebccb626294eda254c288c430bbc",
+      "source_sha256": "743757762dee3053b9a19287850c158362c4a5ada90eed84b08c5aef805f4b9d",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-05.mp4",
       "codec": "H.264 High",
       "resolution": [
@@ -91,10 +91,10 @@
     {
       "session": 6,
       "url": "media/session-6.mp4",
-      "bytes": 20976980,
-      "sha256": "e02e8749613717269d2223d20355ce3cae3cb43be756f29689a090c1d4a85ae3",
+      "bytes": 20249178,
+      "sha256": "85d33b955f6c26b0c020fdb622b0868bd1e8e437b7c71fe013076f9dbe444773",
       "duration_seconds": 801.13,
-      "source_sha256": "dfbef7906ff4efdb976c9ace2364187b1257be8111e2f1ffa7e6a4313b35f32e",
+      "source_sha256": "3ed43bf43bdee35ac49e1f563c54f5e1b5880df5d0564b79ec2a2113da147c55",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-06.mp4",
       "codec": "H.264 High",
       "resolution": [

@@ -1,0 +1,237 @@
+{
+  "updated": "2026-09-27",
+  "scope": "Supplied slide visual replacements in session videos, complete workshop download and published slide PDFs. Audio, captions, timings and source editable decks are unchanged.",
+  "basis_commit": "a52932a0c8a17926d80763b6adf0e19b85c25d42",
+  "replacements": [
+    {
+      "session": 3,
+      "slide": 27,
+      "title": "Positive Autistic Identity",
+      "requested_start": 2381,
+      "requested_end": 2471,
+      "start": 2381.48,
+      "end": 2471.64,
+      "png_sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1",
+      "chapter_title": "Positive Autistic Identity",
+      "site_image": "assets/slide-updates/session-3-slide-27.png",
+      "pdf": "Original Assets/PL Early Career - Session 3 - Autistic Experience at School.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 12,
+      "title": "A schedule you refer to",
+      "requested_start": 732,
+      "requested_end": 807,
+      "start": 732.52,
+      "end": 807.32,
+      "png_sha256": "68a40862461ff890280d8b72a740abca25d0afba5386b301006c6f050d4468ce",
+      "chapter_title": "A schedule you refer to",
+      "site_image": "assets/slide-updates/session-4-slide-12.png",
+      "pdf": "Original Assets/PL Early Career - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 13,
+      "title": "Visual supports",
+      "requested_start": 807,
+      "requested_end": 902,
+      "start": 807.32,
+      "end": 902.8,
+      "png_sha256": "8df8d6696aa1a452b582e7107e5c9f57b69f2702f278a267b9e2962980418b1e",
+      "chapter_title": "Visual supports",
+      "site_image": "assets/slide-updates/session-4-slide-13.png",
+      "pdf": "Original Assets/PL Early Career - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 15,
+      "title": "Universal Design for Learning",
+      "requested_start": 969,
+      "requested_end": 1019,
+      "start": 969.96,
+      "end": 1019.88,
+      "png_sha256": "c5021be8edfd9b73a25d066af3c996cfcca0ec8a5b71e0641441c3ee32d4ff27",
+      "chapter_title": "Universal Design for Learning",
+      "site_image": "assets/slide-updates/session-4-slide-15.png",
+      "pdf": "Original Assets/PL Early Career - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 21,
+      "title": "NCCD",
+      "requested_start": 1499,
+      "requested_end": 1565,
+      "start": 1499.96,
+      "end": 1565.4,
+      "png_sha256": "1df06bccb6dd34adcd7c03664cd37fd323c3382482e9228bc55d0106b8cced38",
+      "chapter_title": "NCCD",
+      "site_image": "assets/slide-updates/session-4-slide-21.png",
+      "pdf": "Original Assets/PL Early Career - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 5,
+      "slide": 17,
+      "title": "NCCD Meetings Tool Kit",
+      "requested_start": 1670,
+      "requested_end": 1739,
+      "start": 1670.32,
+      "end": 1739.4,
+      "png_sha256": "19d98990884217697ef1c7893bdafacc6b6b0291487ae39c674ef1ad70c4dcab",
+      "chapter_title": "NCCD Meetings Tool Kit",
+      "site_image": "assets/slide-updates/session-5-slide-17.png",
+      "pdf": "Original Assets/PL Early Career - Session 5 - Working in Partnership.pdf"
+    },
+    {
+      "session": 6,
+      "slide": 8,
+      "title": "Connections that continue",
+      "requested_start": 598,
+      "requested_end": 672,
+      "start": 598.04,
+      "end": 672.04,
+      "png_sha256": "cc8cd81779124a29e9523b0b58da33059d34ad31e346244cf601c85f4894b2e8",
+      "chapter_title": "Connections that continue",
+      "site_image": "assets/slide-updates/session-6-slide-8.png",
+      "pdf": "Original Assets/PL Early Career - Session 6 - Flourishing and Full Circle.pdf"
+    },
+    {
+      "session": 6,
+      "slide": 10,
+      "title": "Feedback",
+      "requested_start": 697,
+      "requested_end": 754,
+      "start": 697.72,
+      "end": 754.56,
+      "png_sha256": "8e4878d3546daf9e88d1de419496aa54e9998cbf41fc99e67f858ad3eb026708",
+      "chapter_title": "Feedback",
+      "site_image": "assets/slide-updates/session-6-slide-10.png",
+      "pdf": "Original Assets/PL Early Career - Session 6 - Flourishing and Full Circle.pdf"
+    }
+  ],
+  "files": {
+    "media/session-3.mp4": {
+      "bytes": 90743633,
+      "sha256": "87abc8199c75d30218c9e3e8e1cf0512f2628a94b12623d652ce90d64d8e4a18"
+    },
+    "Original Assets/PL Early Career - Session 3 - Autistic Experience at School.pdf": {
+      "bytes": 8344692,
+      "sha256": "7b453e191a551c0113ca62b1016dfb4e3e74ef577ab0c30aa344bdf31d61f136"
+    },
+    "assets/slide-updates/session-3-slide-27.png": {
+      "bytes": 304549,
+      "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
+    },
+    "assets/positive-autistic-identity.png": {
+      "bytes": 304549,
+      "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
+    },
+    "media/session-4.mp4": {
+      "bytes": 45663190,
+      "sha256": "a2f1cfdd41fbc3bf40093e696903c4ebce300b787b1b79d9f0aacf6cb236b74f"
+    },
+    "Original Assets/PL Early Career - Session 4 - Learning Design.pdf": {
+      "bytes": 2401523,
+      "sha256": "cf9c6c569e11673221682823943aa8cbb3f2f7a3adac760f0cd93af21ec6c0d3"
+    },
+    "assets/slide-updates/session-4-slide-12.png": {
+      "bytes": 398773,
+      "sha256": "68a40862461ff890280d8b72a740abca25d0afba5386b301006c6f050d4468ce"
+    },
+    "assets/slide-updates/session-4-slide-13.png": {
+      "bytes": 232598,
+      "sha256": "8df8d6696aa1a452b582e7107e5c9f57b69f2702f278a267b9e2962980418b1e"
+    },
+    "assets/slide-updates/session-4-slide-15.png": {
+      "bytes": 203682,
+      "sha256": "c5021be8edfd9b73a25d066af3c996cfcca0ec8a5b71e0641441c3ee32d4ff27"
+    },
+    "assets/slide-updates/session-4-slide-21.png": {
+      "bytes": 99936,
+      "sha256": "1df06bccb6dd34adcd7c03664cd37fd323c3382482e9228bc55d0106b8cced38"
+    },
+    "media/session-5.mp4": {
+      "bytes": 54288718,
+      "sha256": "30e91ead26556deaa580a2155d6b4fb98c591cb7b282d95420e18cd7c8f1cbac"
+    },
+    "Original Assets/PL Early Career - Session 5 - Working in Partnership.pdf": {
+      "bytes": 3850182,
+      "sha256": "17e7aac0c0a8a32e5e02c01089789d5a4fb94fd7d4adf16be54393edef4603c0"
+    },
+    "assets/slide-updates/session-5-slide-17.png": {
+      "bytes": 222369,
+      "sha256": "19d98990884217697ef1c7893bdafacc6b6b0291487ae39c674ef1ad70c4dcab"
+    },
+    "media/session-6.mp4": {
+      "bytes": 20249178,
+      "sha256": "85d33b955f6c26b0c020fdb622b0868bd1e8e437b7c71fe013076f9dbe444773"
+    },
+    "Original Assets/PL Early Career - Session 6 - Flourishing and Full Circle.pdf": {
+      "bytes": 2045832,
+      "sha256": "1faf7d63bba331a2da0c9f0abf327077e9f1d521aa81c3f33bb74ddac7d12aa8"
+    },
+    "assets/slide-updates/session-6-slide-8.png": {
+      "bytes": 112535,
+      "sha256": "cc8cd81779124a29e9523b0b58da33059d34ad31e346244cf601c85f4894b2e8"
+    },
+    "assets/slide-updates/session-6-slide-10.png": {
+      "bytes": 61725,
+      "sha256": "8e4878d3546daf9e88d1de419496aa54e9998cbf41fc99e67f858ad3eb026708"
+    },
+    "asset-manifest.json": {
+      "bytes": 24729,
+      "sha256": "11bec63df3035913ac89ce8e8a5de001876daeeea4b71ecb78d17fb0a16d45d2"
+    },
+    "playback-manifest.json": {
+      "bytes": 3972,
+      "sha256": "6c67fa8a95fd6b6fff82db67722fddfdb5e9631fd0776a07349a5ec36f3fe164"
+    },
+    "index.html": {
+      "bytes": 379317,
+      "sha256": "5f8e31b15cb6bfc5f6b6e73f56e52dc4b12db746de6501ad15f2f51bd33b293a"
+    },
+    "resources.html": {
+      "bytes": 28357,
+      "sha256": "8dfb6cf3de5fc97a27258dacc3dd49d790316513d93c55804120ed5e505b794b"
+    },
+    "viewing-notes.html": {
+      "bytes": 17815,
+      "sha256": "07382ca405afbc858721e7d9d1021b9a05d6a88e693f3b60034ff0d664207f4f"
+    },
+    "Viewing notes.md": {
+      "bytes": 3118,
+      "sha256": "18875094b2c4440b408d29937aceb0b25a1a1314b7820c6b74711fe66a312b66"
+    }
+  },
+  "downloads": [
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-03.mp4",
+      "sha256": "75536894dc74754b276bb592a4e9fce4c164edd7a1342e48b5d0035e09634b99",
+      "bytes": 367377288,
+      "previous_sha256": "386085132b861dc17c4010ac51df89bc0798fad97dc82ba06a05dc472eb20bef"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-04.mp4",
+      "sha256": "93b9ab046caca073fe1fd5c1b4650f3c4b58bfe8ae22eaeb2cda862a52a3aa84",
+      "bytes": 130695294,
+      "previous_sha256": "f0948a02c6c26efd1fd78f413be37d992f2bc52d10488c1a70d5ad4825ccb636"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-05.mp4",
+      "sha256": "743757762dee3053b9a19287850c158362c4a5ada90eed84b08c5aef805f4b9d",
+      "bytes": 169135615,
+      "previous_sha256": "862cd1ee3e714a0cb503f18838cae0568400ebccb626294eda254c288c430bbc"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--session-06.mp4",
+      "sha256": "3ed43bf43bdee35ac49e1f563c54f5e1b5880df5d0564b79ec2a2113da147c55",
+      "bytes": 60044609,
+      "previous_sha256": "dfbef7906ff4efdb976c9ace2364187b1257be8111e2f1ffa7e6a4313b35f32e"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/early-career--full-workshop.mp4",
+      "sha256": "7e2ef70b858e8846240c510cd4eab6eb8fcd333531516d249c1b3904ddf30e9a",
+      "bytes": 1225155869,
+      "previous_sha256": "bc9797c7f81733d36100e87a6834c9a7d999fb92be0c6254ea95c8b34b5e69f4"
+    }
+  ]
+}
